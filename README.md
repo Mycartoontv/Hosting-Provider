@@ -4,6 +4,6 @@
 docker-compose up -d
 ```
 - Wings
-  ```sh
-  docker-compose up -d
-  ```
+```sh
+docker-compose up -d
+```
