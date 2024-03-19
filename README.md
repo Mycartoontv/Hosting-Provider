@@ -1,1 +1,3 @@
-# Hosting-Provider
+# Pterodactyl
+- panel
+- wings
