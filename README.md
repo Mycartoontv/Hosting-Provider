@@ -1,3 +1,9 @@
 # Pterodactyl
-- panel
-- wings
+- Panel
+```sh
+docker-compose up -d
+```
+- Wings
+  ```sh
+  docker-compose up -d
+  ```
